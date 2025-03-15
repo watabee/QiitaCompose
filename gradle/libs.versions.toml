@@ -67,7 +67,7 @@ androidx-compose-foundation-layout = { module = "androidx.compose.foundation:fou
 androidx-compose-material = { module = "androidx.compose.material:material" }
 androidx-compose-material-icons-core = { module = "androidx.compose.material:material-icons-core" }
 androidx-compose-theme-adapter = { module = "androidx.compose.material:compose-theme-adapter" }
-androidx-compose-constraintlayout = { module = "androidx.constraintlayout:constraintlayout-compose", version = "1.1.0" }
+androidx-compose-constraintlayout = { module = "androidx.constraintlayout:constraintlayout-compose", version = "1.1.1" }
 androidx-paging-compose = { module = "androidx.paging:paging-compose", version.ref = "androidx-paging" }
 androidx-navigation-compose = { module = "androidx.navigation:navigation-compose", version.ref = "androidx-navigation" }
 androidx-hilt-navigation-compose = { module = "androidx.hilt:hilt-navigation-compose", version = "1.2.0" }
